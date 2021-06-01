@@ -21,3 +21,6 @@ http://www.cs.bilkent.edu.tr/~guvenir/courses/CS101/op_precedence.html
 
 Java Keywords:
 https://en.wikipedia.org/wiki/List_of_Java_keywords
+
+Using DiffMerge - Installation Guide
+https://sourcegear.com/diffmerge/downloads.php
